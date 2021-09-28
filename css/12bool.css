@@ -16,6 +16,10 @@
     flex-wrap: wrap;
 }
 
+.flex {
+    display: flex;
+}
+
 /************************
 ****** DEFAULT *********
 ***** EXTRA SMALL *******
@@ -439,7 +443,7 @@ MEDIA QUERIES
 
 @media screen and (min-width: 1024px) {
     .container {
-        max-width: 1000px;
+        max-width: 1440px;
     }
     .col-lg {
         flex-grow: 1;

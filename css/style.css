@@ -1,11 +1,9 @@
 .row {
     height: 200px;
-    line-height: 200px;
 }
 
 .pink>.row {
     padding: 5px;
-    line-height: 190px;
 }
 
 [class^="col"] {
