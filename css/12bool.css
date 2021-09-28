@@ -20,6 +20,14 @@
     display: flex;
 }
 
+.margin-top-50 {
+    margin-top: 50px;
+}
+
+.margin-top-0 {
+    margin-top: 0;
+}
+
 /************************
 ****** DEFAULT *********
 ***** EXTRA SMALL *******
